@@ -1,0 +1,24 @@
+body {
+    font-family: arial, sans-serif;
+}
+
+#form-login {
+    text-align: center;
+    margin-top: 25px;
+    
+}
+
+input[type="submit"] {
+    font-size: 16pt;
+    width: 150px;
+    margin-top: 5px;
+    padding: 5x px 0px 5px 0px; 
+    cursor: pointer;
+}
+
+.field-login {
+    width: 190px;
+    font-size: 16p;
+    border-radius: 5px;
+    padding: 5px 10px 5px 10px;
+}
